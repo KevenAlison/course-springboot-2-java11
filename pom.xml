@@ -9,7 +9,7 @@
 		<version>2.6.6</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.educandoweb</groupId>
+	<groupId>com.kevproj</groupId>
 	<artifactId>course</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>course</name>

@@ -1,4 +1,4 @@
-package com.educandoweb.course.entities;
+package com.kevproj.course.entities;
 
 import java.io.Serializable;
 

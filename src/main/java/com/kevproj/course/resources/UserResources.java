@@ -1,4 +1,4 @@
-package com.educandoweb.course.resources;
+package com.kevproj.course.resources;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.educandoweb.course.entities.User;
-import com.educandoweb.course.servicies.UserService;
+import com.kevproj.course.entities.User;
+import com.kevproj.course.servicies.UserService;
 
 
 @RestController

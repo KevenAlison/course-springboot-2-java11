@@ -1,4 +1,4 @@
-package com.educandoweb.course.config;
+package com.kevproj.course.config;
 
 import java.util.Arrays;
 
@@ -7,8 +7,8 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
 
-import com.educandoweb.course.entities.User;
-import com.educandoweb.course.repositories.UserRepository;
+import com.kevproj.course.entities.User;
+import com.kevproj.course.repositories.UserRepository;
 
 @Configuration
 @Profile("test")

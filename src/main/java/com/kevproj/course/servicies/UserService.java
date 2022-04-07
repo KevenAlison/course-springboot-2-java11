@@ -1,4 +1,4 @@
-package com.educandoweb.course.servicies;
+package com.kevproj.course.servicies;
 
 import java.util.List;
 import java.util.Optional;
@@ -6,8 +6,8 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.educandoweb.course.entities.User;
-import com.educandoweb.course.repositories.UserRepository;
+import com.kevproj.course.entities.User;
+import com.kevproj.course.repositories.UserRepository;
 
 @Service
 public class UserService {
